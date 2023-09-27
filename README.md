@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shonepious
-- 👀 I’m interested in python and cmd
-- 🌱 I’m currently learning python and command line
-- 💞️ I’m looking to collaborate on any python based rojects (beginner to intermediate)
+- 👀 I’m interested in cybersecurity and cloud technologies
+- 🌱 I’m currently learning Java and ethical hacking
+- 💞️ I’m looking to collaborate on any cybersecuity or cloud projects (beginner to intermediate)
 - 📫 How to reach me -- email at shonepious7@gmail.com
 
 <!---
