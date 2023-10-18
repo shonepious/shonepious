@@ -2,6 +2,7 @@
 - 👀 I’m interested in cybersecurity and cloud technologies
 - 🌱 I’m currently learning Java and ethical hacking
 - 💞️ I’m looking to collaborate on any cybersecuity or cloud projects (beginner to intermediate)
+- 📑 Check out my portfolio website here https://spcyber.wixsite.com/shonepcyber
 - 📫 How to reach me -- email at shonepious7@gmail.com
 
 <!---
